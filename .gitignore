@@ -42,4 +42,6 @@
 ############################################
 # do not upload secret infomation
 myresume.tex
+myresume_CN.tex
 myresume.pdf
+myresume_CN.pdf
